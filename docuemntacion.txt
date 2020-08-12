@@ -9,3 +9,24 @@ https://coolors.co/001514-fbfffe-6b0504-a3320b-e6af2e
 https://colorhunt.co/palettes/purple
 -------------- colores gradiantes--------------
 https://cssgradient.io/gradient-backgrounds/
+---------------------------------------------------------
+transition: Las transiciones CSS le permiten cambiar los valores de las propiedades sin problemas durante una duración determinada. Debemos tener presente que una transición NO es una animación. Una transición va de un punto A a un punto B sin interrupciones o saltos en medio.
+https://www.w3schools.com/css/css3_transitions.asp.
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+https://css-tricks.com/almanac/properties/t/transition/
+---------------------------------------------------------
+animation: Esta propiedad permite que animemos nuestros elementos.
+https://www.w3schools.com/css/css3_animations.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+https://css-tricks.com/almanac/properties/a/animation/
+---------------------------documentacion de metodologia de css-----------------------------------
+----- metodologia ooccs------------
+https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
+----- metodologia BEM---------------
+http://getbem.com/introduction/
+------- metodologia smaccs---------
+http://smacss.com
+---------- metodologia itccs------------
+https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+---------- metodologia atomic desing------------
+https://bradfrost.com/blog/post/atomic-web-design/
