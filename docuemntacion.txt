@@ -30,3 +30,27 @@ http://smacss.com
 https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
 ---------- metodologia atomic desing------------
 https://bradfrost.com/blog/post/atomic-web-design/
+
+
+------------ descargar imagenes gratis y sin marcas de agua ----------------------
+https://www.pexels.com/es-es/
+
+-------------- documentacion de flex box----------------
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+https://darekkay.com/dev/flexbox-cheatsheet.html
+--------------- juego para entrender y practicar los flexblox----------------------
+https://flexboxfroggy.com/#es
+
+--------------- documentacion grid-------------------------------------------
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+
+https://labs.jensimmons.com
+
+--------------------------juego para grids--------------------------------
+https://cssgridgarden.com/#es
