@@ -3,10 +3,64 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    
     <title>Document</title>
 </head>
+<style>
+    body{
+        padding: 0;
+        margin: 0;
+    }
+.header{
+    width: 100%;
+    display: flex;
+    height: 80px;
+    justify-content: space-between;
+    top: 0;
+    background-color:#1db87f ;
+    align-items: center;
+}
+.header__img{
+    margin-left: 20px;
+    height: 70px;
+    width: 200px;
+}
+
+</style>
 <body>
-    
+    <header class="header">
+        <img src="https://raw.githubusercontent.com/platzi/PlatziVideo/feature/react/src/assets/static/logo-platzi-video-BW2.png" alt="" class="header__img">
+    </header>
+    <section class="login">
+        <div class="login__container">
+            <h2>inicio de sesion</h2>
+        
+
+        <form action="" class="login__conyainer--form">
+            <input type="text" class="input" placeholder="Correo">
+            <input type="password" class="input" placeholder="Contraseña">
+            <button class="button"> Iniciar sesión</button>
+
+            <div class="login__container--remember">
+                <input type="checkbox" name="" id="cbox1" value="checkbox"> recuerdame
+                <a href="">olvide la Contraseña</a>
+            </div>
+
+        </form>
+
+        <section class=" login__container--social-media">
+            <div>
+                <img src="images/google-icon.png" alt=""> Inicia sesion con Google
+            </div>
+            <div>
+                <img src="images/twitter-icon.png" alt=""> Inicia sesion con Twitter
+            </div>
+        </section>
+        <p class="login__container--register">No tienes ninguna cuenta? <a href="">Registrate</a></p>
+        </div>
+    </section>
+    <footer>
+        
+    </footer>
 </body>
 </html>
