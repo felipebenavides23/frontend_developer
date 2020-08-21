@@ -54,3 +54,7 @@ https://labs.jensimmons.com
 
 --------------------------juego para grids--------------------------------
 https://cssgridgarden.com/#es
+--------------------------documentacion de procesadores de css--------------------------
+https://sass-lang.com/guide
+http://lesscss.org/
+http://stylus-lang.com/

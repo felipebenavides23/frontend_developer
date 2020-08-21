@@ -99,10 +99,11 @@ text-align: center;
   /* carrusel */
   .carousel{
     width: 100%;
-    overflow: scroll;
+    overflow-y: auto;
     position: relative;
     
 }
+
 
 .carousel__container{
     white-space: nowrap;
